@@ -13,6 +13,10 @@ This is a simple Java project that converts numbers between:
 - Loops
 - Conditional Statements
 - Number System Logic
+- 
+   ## How to Run
+- Compile: javac converter.java
+- Run: java converter
 
 ## Author
 Aditya Singh Rathour
